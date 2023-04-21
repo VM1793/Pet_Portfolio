@@ -1,0 +1,26 @@
+.policy {
+    margin:40px 0 40px 0;
+    ul {
+        list-style-type: none;
+        margin-left: 25px;
+    }
+    table {
+        margin-left: 25px;
+        tr {
+            th {
+                border: 1px solid #000;
+                padding: 10px;
+                padding-right: 100px;   
+            }
+            td {
+                border: 1px solid #000;
+                padding: 10px 10px 10px 15px;
+                ol {
+                    list-style-type: disc;
+                    padding: 10px 10px 10px 20px;
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+}
